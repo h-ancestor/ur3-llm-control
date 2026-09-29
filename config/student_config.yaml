@@ -1,0 +1,7 @@
+student_name: Hien
+student_id_last_two: "41"
+
+zone_mapping:
+  zone_a: blue_cube
+  zone_b: yellow_cube
+  zone_c: red_cube

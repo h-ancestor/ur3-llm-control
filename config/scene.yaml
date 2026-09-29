@@ -1,0 +1,22 @@
+objects:
+  red_cube:
+    color: red
+    position: [0.35, 0.20, 0.05]
+
+  yellow_cube:
+    color: yellow
+    position: [0.35, 0.00, 0.05]
+
+  blue_cube:
+    color: blue
+    position: [0.35, -0.20, 0.05]
+
+zones:
+  zone_a:
+    position: [0.60, 0.20, 0.05]
+
+  zone_b:
+    position: [0.60, 0.00, 0.05]
+
+  zone_c:
+    position: [0.60, -0.20, 0.05]
